@@ -67,7 +67,6 @@
 
 **JavaScript Mini Projects Collection** — A collection of interactive frontend projects built to strengthen JavaScript fundamentals.
 
-> *Replace these with your MERN projects once you complete them — the moment you push a real backend project, swap it in here.*
 
 ---
 
