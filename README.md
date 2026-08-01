@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Harsh;MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Harsh;MERN+Stack+Developer;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 - 🎓 3rd Year B.Tech CSE student passionate about Full Stack Web Development and Problem Solving.
 - 🌱 Currently learning Data Structures & Algorithms and MERN Stack Development (completed Frontend: HTML, CSS & JavaScript, now exploring the backend).
 - 🚀 I enjoy building responsive web applications and continuously improving my development skills.
-- 🏔️ When I’m not chasing bugs in VS Code, I’m usually chasing mountain views.
+- 🏔️ Fun fact: When I’m not chasing bugs in VS Code, I’m usually chasing mountain views.
 
 ---
 
