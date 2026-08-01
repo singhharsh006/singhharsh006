@@ -20,7 +20,7 @@
 - 🎓 3rd Year B.Tech CSE student passionate about Full Stack Web Development and Problem Solving.
 - 🌱 Currently learning Data Structures & Algorithms and MERN Stack Development (completed Frontend: HTML, CSS & JavaScript, now exploring the backend).
 - 🚀 I enjoy building responsive web applications and continuously improving my development skills.
-- 🏔️ When I'm not debugging code or solving DSA problems, you'll probably find me exploring the mountains — I've completed a few memorable treks in Uttarakhand.
+- 🏔️ When I’m not chasing bugs in VS Code, I’m usually chasing mountain views.
 
 ---
 
@@ -67,13 +67,13 @@
 
 **JavaScript Mini Projects Collection** — A collection of interactive frontend projects built to strengthen JavaScript fundamentals.
 
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhharsh006&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=singhharsh006&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=singhharsh006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="38%">
 </p>
 
 <p align="center">
