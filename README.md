@@ -71,15 +71,4 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=singhharsh006&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=singhharsh006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="38%">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=singhharsh006&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhharsh006&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-</p>
+<table align="center"> <tr> <td><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=singhharsh006&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%"></td> <td><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=singhharsh006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"></td> </tr> </table> <p align="center"> <img src="https://streak-stats.demolab.com?user=singhharsh006&theme=tokyonight&hide_border=true" alt="GitHub Streak"> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhharsh006&theme=tokyo-night&hide_border=true" alt="Activity Graph"> </p>
