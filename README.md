@@ -95,12 +95,10 @@
   />
 </p>
 
+---
+
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=singhharsh006&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-    width="100%"
-  />
+  <img src="https://ghchart.rshah.org/7AA2F7/singhharsh006" alt="GitHub Contribution Chart" width="100%" />
 </p>
