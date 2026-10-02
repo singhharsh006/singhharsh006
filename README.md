@@ -100,5 +100,5 @@
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/7AA2F7/singhharsh006" alt="GitHub Contribution Chart" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </p>
