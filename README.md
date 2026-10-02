@@ -30,13 +30,13 @@
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 **Frontend**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 </p>
 
@@ -71,4 +71,38 @@
 
 ## 📊 GitHub Stats
 
-<table align="center"> <tr> <td><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=singhharsh006&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%"></td> <td><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=singhharsh006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"></td> </tr> </table> <p align="center"> <img src="https://streak-stats.demolab.com?user=singhharsh006&theme=tokyonight&hide_border=true" alt="GitHub Streak"> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhharsh006&theme=tokyo-night&hide_border=true" alt="Activity Graph"> </p>
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=singhharsh006&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=singhharsh006&layout=compact&theme=tokyonight&hide_border=true"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=singhharsh006&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=singhharsh006&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
+</p>
