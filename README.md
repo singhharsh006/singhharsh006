@@ -71,8 +71,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <table align="center">
   <tr>
     <td>
@@ -101,7 +99,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=singhharsh006&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=singhharsh006&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true"
     alt="GitHub Activity Graph"
     width="100%"
   />
